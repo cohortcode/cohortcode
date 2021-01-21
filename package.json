@@ -1,0 +1,26 @@
+{
+  "name": "cohortcode",
+  "version": "1.0.0",
+  "description": "The cohort code blog",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cohortcode/cohortcode.git"
+  },
+  "keywords": [
+    "learn",
+    "to",
+    "code"
+  ],
+  "author": "Cohorot Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cohortcode/cohortcode/issues"
+  },
+  "homepage": "https://github.com/cohortcode/cohortcode#readme"
+}
